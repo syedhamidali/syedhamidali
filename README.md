@@ -1,8 +1,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/hamidrixvi?style=social)](https://twitter.com/hamidrixvi)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://linkedin.com/in/hamidrixvi/)
-[![Facebook Badge](https://img.shields.io/badge/hamidrixvi?style=social&logo=facebook&logoColor=white)](https://facebook.com/hamidrixvi/)
-
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/hamidrixvi)
+[![Facebook Badge](https://img.shields.io/endpoint?label=hamidrixvi&logo=facebook&style=social)](https://facebook.com/hamidrixvi/)
+[![Instagram Badge](https://img.shields.io/endpoint?label=hamidrixvi&logo=instagram&style=social)](https://instagram.com/hamidrixvi)
 
 ![myImg](IMG_20200712_150741.png)
 
