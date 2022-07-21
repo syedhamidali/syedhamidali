@@ -1,5 +1,6 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/hamidrixvi?style=social)](https://twitter.com/hamidrixvi)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/hamidrixvi/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/hamidrixvi/)
 
 ![myImg](IMG_20200712_150741.png)
 
