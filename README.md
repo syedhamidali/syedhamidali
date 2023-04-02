@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhamidali&label=Profile%20views&color=0e75b6&style=flat" alt="syedhamidali" /> </p>
 
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=PhD+Student%20@%20at+Purdue+University;Weather+Enthusiast'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=PhD+Student%20@%20Purdue+University;Weather+Enthusiast'/>
 </div>
 
 ## **ABOUT ME**
@@ -36,6 +36,8 @@
    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/syedhamidali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
+
+
 
 <!-- [![Twitter Badge](https://img.shields.io/twitter/follow/hamidrixvi?style=social)](https://twitter.com/hamidrixvi)
 [![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://linkedin.com/in/hamidrixvi/)
