@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on **QLCSs and Tornadoes.**
 
-- 💻 Check out my website [syedha.com](https://syedha.com){:target="_blank"}
+- 💻 Check out my website [syedha.com](https://syedha.com)
 
 
 
