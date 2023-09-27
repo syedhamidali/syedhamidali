@@ -1,32 +1,3 @@
-<h2 align="center">Hi, I'm Hamid (حامد)</h2>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhamidali&label=Profile%20views&color=0e75b6&style=flat" alt="syedhamidali" /> </p>
-
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=PhD+Student%20@%20Purdue+University;Weather+Enthusiast'/>
-</div>
-
-## **ABOUT ME**
-
-- 🔭 I’m currently working as **Graduate Research Assistant** at **Purdue University.**
-
-- 🌱 I’m currently working on **QLCSs and Tornadoes.**
-
-- 💻 Check out my website [syedha.com](https://syedha.com)
-
-
-
-## **CODING STATS**
-<p align = 'center'>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=syedhamidali&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=php,html,typescript,scss,javascript,css&theme=gotham&line_height=27&hide_border=true'/>
-</p>
-
-## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=syedhamidali&theme=gotham&hide_border=true'>
-</p>
-
 ## **CONNECT WITH ME**:
 <p align="left">
 <a href = "https://www.linkedin.com/in/hamidrixvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -36,7 +7,33 @@
    <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/syedhamidali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/>
 <br>
 </a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhamidali&label=Profile%20views&color=0e75b6&style=flat" alt="syedhamidali" /> </p>
+<br>
+<h2 align="center">Hi, I'm Hamid (حامد)</h2>
+<div align='center'>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=PhD+Student%20@%20Purdue+University;Weather+Enthusiast;'/>
+</div>
 
+## **ABOUT ME**
+
+- 🔭 I’m currently working as **Graduate Research Assistant** at **Purdue University.**
+- 🌱 I’m currently working on **QLCSs and Tornadoes.**
+- 💻 Check out my website [syedha.com](https://syedha.com)
+
+
+
+## **CODING STATS**
+<p align = 'center'>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=syedhamidali&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
+    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=javascript,go,php,html,typescript,css,scss,markdown&theme=gotham&line_height=27&hide_border=true'/>
+    <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/> -->
+    <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&theme=gotham&line_height=27&hide_border=true'/> -->
+</p>
+
+## **STREAK STATS**
+<p align = 'center'>
+    <img src='https://github-readme-streak-stats.herokuapp.com/?user=syedhamidali&theme=gotham&hide_border=true'>
+</p>
 
 
 
