@@ -26,9 +26,15 @@
 ## **CODING STATS**
 <p align = 'center'>
     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=syedhamidali&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=javascript,go,php,html,typescript,css,scss,markdown&theme=gotham&line_height=27&hide_border=true'/>
+</p>
+<!--     <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=javascript,go,php,html,typescript,css,scss,markdown&theme=gotham&line_height=27&hide_border=true'/> -->
     <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/> -->
     <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&theme=gotham&line_height=27&hide_border=true'/> -->
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syedhamidali&theme=dark&rank_icon=github" />
+</a> -->
+<p href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhamidali&layout=compact&langs_count=8&card_width=320&theme=dark" />
 </p>
 
 ## **STREAK STATS**
