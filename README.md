@@ -12,7 +12,7 @@
 <br>
 <h2 align="center">Hi, I'm Hamid (حامد)</h2>
 <div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=PhD+Student%20@%20Purdue+University;Weather+Enthusiast;'/>
+<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Grad+Student%20@%20Purdue+University;Weather+Enthusiast;'/>
 </div>
 
 ## **ABOUT ME**
