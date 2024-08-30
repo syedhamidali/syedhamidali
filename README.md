@@ -53,5 +53,3 @@
 [![Instageam Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hamidrixvi)
 ![Radar](https://raw.githubusercontent.com/syedhamidali/Weather-Radar-PPI-RHI-Plotting-by-PYART/main/project.gif)
 <!-- ![myImg](IMG_20200712_150741.png) -->
-
-<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=syedhamidali&show_icons=true&theme=radical) -->
