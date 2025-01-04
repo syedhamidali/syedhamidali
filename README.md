@@ -11,14 +11,11 @@
 <div align='center'>
 <img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Grad+Student%20@%20Purdue+University;Weather+Enthusiast;'/>
 </div>
-
+<!--
 ## **ABOUT ME**
-
 - 🔭 I’m currently working as **Graduate Research Assistant** at **Purdue University.**
 - 🌱 I’m currently working on **QLCSs and Tornadoes.**
-- 💻 Check out my website [syedha.com](https://syedha.com)
-
-
+- 💻 Check out my website [syedha.com](https://syedha.com) -->
 
 ## **CODING STATS**
 <p align = 'center'>
