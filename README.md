@@ -1,54 +1,67 @@
-## **CONNECT WITH ME**:
-<p align="left">
-<a href = "https://www.linkedin.com/in/hamidrixvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href = "https://twitter.com/HamidRixvi"><img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=for-the-badge&logo=x&logoColor=black"/></a>
-<!-- <a href = "https://twitter.com/HamidRixvi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
-<!-- <a href = "https://www.instagram.com/hamidrixvi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> -->
-<!-- <a href='https://github.com/syedhamidali?tab=followers'>
-   <img alt='followers' title='Follow Me on GitHub' src='https://custom-icon-badges.herokuapp.com/github/followers/syedhamidali?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white'/> -->
-
-<h2 align="center">Hi, I'm Hamid (حامد)</h2>
-<div align='center'>
-<img src='https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=16A085&center=true&lines=Weather+and+Climate+Enthusiast;'/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:023e8a,100:00b4d8&height=200&section=header&text=Syed%20Hamid%20Ali&fontSize=52&fontColor=00f2ff&animation=fadeIn&fontAlignY=42&desc=Atmospheric%20Scientist%20%C2%B7%20Radar%20Meteorologist%20%C2%B7%20Open%20Source%20Developer&descSize=17&descColor=90e0ef&descAlignY=68" width="100%" />
 </div>
-<!--
-## **ABOUT ME**
-- 🔭 I’m currently working as **Graduate Research Assistant** at **Purdue University.**
-- 🌱 I’m currently working on **QLCSs and Tornadoes.**
-- 💻 Check out my website [syedha.com](https://syedha.com) -->
 
-## **CODING STATS**
-<p align = 'center'>
-<!--     <img src='https://github-readme-stats-sigma-five.vercel.app/api?username=syedhamidali&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&hide_border=true&line_height=27'/>
-    <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=javascript,go,php,html,typescript,css,scss,markdown&theme=gotham&line_height=27&hide_border=true'/> -->
-    <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&hide=php,html,typescript,css,markdown&theme=gotham&line_height=27&hide_border=true'/> -->
-    <!-- <img src='https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=syedhamidali&show_icons=true&theme=gotham&line_height=27&hide_border=true'/> -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=syedhamidali&theme=dark&rank_icon=github" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhamidali&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=00f2ff&center=true&vCenter=true&lines=Weather+Radar+%26+Climate+Researcher;Building+open-source+tools+for+radar+science" />
+</div>
 
-</p>
+<br/>
 
-## **STREAK STATS**
-<p align = 'center'>
-    <img src='https://github-readme-streak-stats.herokuapp.com/?user=syedhamidali&theme=gotham&hide_border=true'>
-</p>
+<div align="center">
+  <a href="https://syedha.com"><img src="https://img.shields.io/badge/Website-syedha.com-00b4d8?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hamidrixvi/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/HamidRixvi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://github.com/syedhamidali"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
 
-<br>
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedhamidali&label=Profile%20views&color=0e75b6&style=flat" alt="syedhamidali" /> </p>
-<br>
+---
 
+### About Me
 
+- Atmospheric Scientist specializing in **weather radar data** and severe weather
+- Building **open-source Python tools** for the radar meteorology community
+- Passionate about making radar data accessible and analysis reproducible
 
+---
 
+### Featured Projects
 
-<!-- [![Twitter Badge](https://img.shields.io/twitter/follow/hamidrixvi?style=social)](https://twitter.com/hamidrixvi)
-[![LinkedIn](https://img.shields.io/static/v1?label=&message=LinkedIn&color=0077B5&style=flat-square&logo=linkedin)](https://linkedin.com/in/hamidrixvi/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://facebook.com/hamidrixvi/)
-[![Instageam Badge](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/hamidrixvi)
-![Radar](https://raw.githubusercontent.com/syedhamidali/Weather-Radar-PPI-RHI-Plotting-by-PYART/main/project.gif)
-<!-- ![myImg](IMG_20200712_150741.png) -->
+<div align="center">
+
+| Project | Description | Stars |
+|---------|-------------|-------|
+| [**xradar**](https://github.com/openradar/xradar) | Xarray-based toolkit for weather radar data | ![Stars](https://img.shields.io/github/stars/openradar/xradar?style=flat-square&color=00b4d8) |
+| [**Py-ART**](https://github.com/ARM-DOE/pyart) | The Python-ARM Radar Toolkit (contributor) | ![Stars](https://img.shields.io/github/stars/ARM-DOE/pyart?style=flat-square&color=00b4d8) |
+| [**PyDDA**](https://github.com/openradar/PyDDA) | Pythonic multiple-Doppler wind analysis | ![Stars](https://img.shields.io/github/stars/openradar/PyDDA?style=flat-square&color=00b4d8) |
+| [**PyScanCf**](https://github.com/syedhamidali/PyScanCf) | Convert IMD radar sweeps to Cf-Radial1 format | ![Stars](https://img.shields.io/github/stars/syedhamidali/PyScanCf?style=flat-square&color=00b4d8) |
+| [**radarx**](https://github.com/syedhamidali/radarx) | Xarray-based radar toolkit | ![Stars](https://img.shields.io/github/stars/syedhamidali/radarx?style=flat-square&color=00b4d8) |
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/syedhamidali">
+    <img height=180 src="https://github-readme-stats.vercel.app/api?username=syedhamidali&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=90e0ef" />
+  </a>
+  <a href="https://github.com/syedhamidali">
+    <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs?username=syedhamidali&layout=compact&langs_count=8&card_width=320&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=90e0ef" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedhamidali&theme=tokyonight&hide_border=true&background=0d1117&stroke=023e8a&ring=00b4d8&fire=00f2ff&currStreakLabel=00b4d8&sideLabels=90e0ef&dates=90e0ef" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedhamidali&label=Profile%20Views&color=00b4d8&style=flat-square" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:023e8a,100:00b4d8&height=100&section=footer" width="100%" />
+</div>
