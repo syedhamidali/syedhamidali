@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=00f2ff&center=true&vCenter=true&width=700&lines=Weather+Radar+%26+Climate+Researcher;Building+open-source+tools+for+radar+science" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=ubuntu&color=00f2ff&center=true&vCenter=true&width=700&lines=Weather+%26+Climate+Researcher;Building+open-source+tools+for+radar+science" />
 </div>
 
 <br/>
